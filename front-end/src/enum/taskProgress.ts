@@ -1,0 +1,7 @@
+export enum taskProgress {
+    AGUARDANDO = "AGUARDANDO",
+    EXECUTANDO = "EXECUTANDO",
+    PENDÊNCIAS = "PENDÊNCIAS",
+    FINALIZADO = "FINALIZADO",
+    OUTROS = "OUTROS"
+}
